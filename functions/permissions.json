@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "peligrapp-61095",
+  "private_key_id": "f4d3509f8e152c610ba6f62379e81d1300d8caee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCKEKoPVk6we40A\nWGpVOKAZXR697pW3KWHtGfuLowjlbZ7URLO58Xt4L2QmNKjTKYaQrco+LZSyoLFm\nFsyehBxwupf1fIQfjZWE4pe6kB6R898E/r4evWsCVQV1A2j6L4KAY7Eu92MvOHnr\nEgpzGQ8JYHSeLy0icE7MljF0ggJPdhrS4UT0BB8aKzb6zr/LFjuvCgk1f2uDJw8/\nn412bv/PNEtPfvOhyuEGDU8+r/0Q4UFsscgRsMKWXk0YvKwFhjmIJcOnyd5A+kx9\nZDxFYlzPh5Kd1Ac8ZJJtgeeaA6F57Vev5kVv2OXWgowZi8V5aicDnydJWP46+V8w\nAmdiuLPXAgMBAAECggEAGMqVPtvIlXgaAY3eyh644NUPyBsnVxRfOSwJNzG3Tzs3\n4fXUL/dkrFgWK6YZCpHST/hk8HVO1iR0tlgxteUTFkrrLnGFaAUMbCgkBqQKWTrp\nOQRlLy/kHy8VI8XQ+9u8G0HLdxuE+92wRr2ekrxVLuHbDux5tk1kWOg/SSRvNcVD\nzAAgADv9LkVUgzU4rSAKWacU1cWxHkOKMFWnsfAFh6JNh7lmI9yIu5xGEnT8asgW\nVfeNjtmm6PHMkr1DdshxXDAd+yySQROXYmUDSqHaxaZLT5DiZpQKrFOZiXhWSPH5\nh5iNEXxj+HfdB3x7yHhas86nTYMprpfBMfbQwa1hAQKBgQDC8p4GcKEBieylsmlH\nej8QkwGNtzuJgSBufNQLOxD/+qtGbdI562HufHAQsD1pwfsS9LfRSz1W2pHSuinx\neegg1t217SpwdQ6yxQFliwGtuoBEPJK6xOTzWE8e3n6s3EN6IsExLM34n2IY5Y9y\n8sNMg9UGI9hTvcIojEEDsW2kUQKBgQC1TaSdWjqfV3ShdLyTPVVaPDKhgB/h6/8i\ngQO4XU834DLvbn1C6KWVmgnNo0PJFsNZ2EL6/Jd+ePSPJ4oQ823i/Xma+IW6a+bk\nP9xc6fNGU3uJxWfkD0mk/epu/wCydMKytJrL/p3dRdYE4aLMlpKYzIIDS+jtoINF\nC//7Q1iTpwKBgQCSNuozJlJ8Fvh5JqEzzQpz4e5uXhm3fjPW6qUXb0vG0jmX71KX\nwmWHO6nJuoW1RpqLkyQzQ91TwUdR5/MBfE+QIdfUVXdZNVK63mu3v1SY+qKti0j5\n8CdQJNHi8znLaMDrYBnKSjKJ4PDwf2zh6BZ20wH5QvVDibWQN/GjVXZIoQKBgAo3\nZthLFlSWTAcxGdM+OIoOLFg3bRSBBO5/0KLZ9zXR12zwj/RuQa5tcLH6yj4Rn053\nxkZ4Z10EGdvbQYd1ADMzT1/xMy/vFqK0Cond0QycdbCsxA7w4Zh/im9YxURJGhOR\n48ss/N5UKhw6Tr8ymO4tUAI5i9WgHuWMKI+TGvGvAoGAQrmJJVfCvOJpXbFtJuFL\n0ILyUbI4OEHSvGxhKLVmkVOvl1nZ/uHeqEQJygGSTRxQef+0Cb7ETPe0IZ5d4L57\nKAuI3mcAYKYl7LEOX/5E09jCoWOhjegoxe4PPScxEJeBdoUozKaI/IUwgaSjqujB\n6v15x4h8VBYeCu15JFte7Us=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-p63gd@peligrapp-61095.iam.gserviceaccount.com",
+  "client_id": "106036589500625228490",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-p63gd%40peligrapp-61095.iam.gserviceaccount.com"
+}
